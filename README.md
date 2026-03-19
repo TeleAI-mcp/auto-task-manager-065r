@@ -1,2 +1,3 @@
-# auto-task-manager-065r
-Automated issue comment bot repository
+# Auto Task Manager 065R
+
+Automated issue comment bot repository.
